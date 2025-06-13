@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+.image-holder {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-holder > img {
+    flex: 1 1 0px;
+    width: 0;
+}
